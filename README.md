@@ -1,0 +1,2 @@
+# linux10
+sharelinuxcommands
